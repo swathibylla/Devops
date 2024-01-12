@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\swath\\Documents\\WebConnectivity\\HtmlForms\\HtmlForms\\HtmlForms.csproj",
+      "projectUniqueName": "C:\\Users\\swath\\Documents\\Devops\\test2\\HtmlForms\\HtmlForms.csproj",
       "projectName": "HtmlForms",
-      "projectPath": "C:\\Users\\swath\\Documents\\WebConnectivity\\HtmlForms\\HtmlForms\\HtmlForms.csproj",
+      "projectPath": "C:\\Users\\swath\\Documents\\Devops\\test2\\HtmlForms\\HtmlForms.csproj",
       "packagesPath": "C:\\Users\\swath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\swath\\Documents\\WebConnectivity\\HtmlForms\\HtmlForms\\obj\\",
+      "outputPath": "C:\\Users\\swath\\Documents\\Devops\\test2\\HtmlForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\swath\\AppData\\Roaming\\NuGet\\NuGet.Config",
